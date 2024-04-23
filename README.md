@@ -1,8 +1,8 @@
 ## Hi there 👋, you can call me Zaki!
 
-Detail-oriented and hardworking Electrical Engineering⚡ student at Universitas Padjadjaran, Indonesia. Have an interest in programming, machine learning, deep learning, and internet of things.
+Bachelor of Electrical Engineering⚡ from Universitas Padjadjaran with a concentration in robotics, programming, and artificial intelligence. Active in organizations and committees at association, faculty, and university levels. Has experience as a laboratory assistant and also did an internship for three months as a research intern.
 
-I’m currently learning about Data Science 📊, Computer Vision 👁️, Natural Languange Processing 🎤, and Reinforcement Learning 🤖 at MSIB program form Kampus Merdeka with Orbit Future Academy.
+Have an interest in artificial intelligence such as Data Science 📊, Computer Vision 👁️, Natural Language Processing 🎤.
 
 📫 Reach me at: zakimaulana438@gmail.com
 
