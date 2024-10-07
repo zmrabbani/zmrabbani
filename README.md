@@ -6,6 +6,8 @@ Have an interest in artificial intelligence such as Data Science 📊, Computer 
 
 📫 Reach me at: zakimaulana438@gmail.com
 
+Also check my portfolio at: https://bit.ly/zmrabbani
+
 ### My Skills:
 #### Programming
 [![My Skills](https://skillicons.dev/icons?i=c,html,py,matlab&perline=4)](https://skillicons.dev)
